@@ -1,0 +1,10 @@
+{
+  "type": "EXPENSE",
+  "amount": 5000,
+  "currency": "RUB",
+  "transactionDate": "2026-10-15",
+  "accountId": 1,
+  "categoryId": 1,
+  "departmentId": 1,
+  "description": "October salary #2"
+}

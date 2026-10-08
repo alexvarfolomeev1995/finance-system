@@ -1,0 +1,9 @@
+{
+  "departmentId": 1,
+  "categoryId": 1,
+  "period": "MONTH",
+  "periodYear": 2026,
+  "periodNumber": 10,
+  "plannedAmount": 50000,
+  "currency": "RUB"
+}

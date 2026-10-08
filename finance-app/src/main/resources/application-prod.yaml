@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USER}
+    password: ${DB_PASSWORD}
+  flyway:
+    enabled: true
+
+logging:
+  level:
+    root: INFO
+
+app:
+  jwt:
+    secret: ${JWT_SECRET}
+    access-token-ttl-seconds: ${JWT_ACCESS_TTL:900}
+    refresh-token-ttl-seconds: ${JWT_REFRESH_TTL:604800}
