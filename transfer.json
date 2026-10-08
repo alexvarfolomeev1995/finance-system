@@ -1,0 +1,9 @@
+{
+  "fromAccountId": 1,
+  "toAccountId": 2,
+  "amount": 10000,
+  "currency": "RUB",
+  "transactionDate": "2026-10-08",
+  "departmentId": 1,
+  "description": "Transfer to reserve"
+}
